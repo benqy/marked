@@ -11,6 +11,22 @@
 npm install marked --save
 ```
 
+## 扩展功能
+### emoji表情语法
+```
+:+1: :shit: :a:
+```
+:+1: :shit: :a:
+
+[所有表情查询](http://www.emoji-cheat-sheet.com/)
+
+
+### 目录
+```
+[TOC]
+```
+将h1~h6标签生成目录树.
+
 ## Usage
 
 Minimal usage:
